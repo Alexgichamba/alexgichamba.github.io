@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About me
 I am a Master's student in Electrical and Computer Engineering at CMU (Africa). I am advised by Professor Shinji Watanabe in my research on integrated spoofing robust speaker representations and downstream tasks like speaker verification. Beyond speech, I have other research interests that include:
 - Information Retrieval and efficient Approximate Nearest Neighbour Search
 - LLMs for knowledge-intensive NLP
