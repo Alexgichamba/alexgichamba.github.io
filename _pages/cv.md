@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * M.S. in Electrical and Computer Engineering, Carnegie Mellon University 2024 (expected)
