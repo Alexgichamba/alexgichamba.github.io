@@ -11,54 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Electrical and Computer Engineering, Carnegie Mellon University 2024 (expected)
+* BSc. in Electrical and Electronics Engineering, University of Nairobi, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2024: Research Intern
+  * Carnegie Mellon University Africa
+  * Research Project: Federated Learning with Noisy Labels
+  * Supervisor: Joao Barros
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C, C++, MATLAB, Bash
+* ML Software: PyTorch, ESPnet, NumPy
+* Hardware: Altium, Verilog 
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+*ColBERT Retrieval and Ensemble Response Scoring for Language Model Question Answering*<br>
+Alex Gichamba, Tewodros Kederalah Idris, Brian Ebiyau, Eric Nyberg, Teruko Mitamura<br>
+(Preprint)<br>
+Link: [arXiv](https://arxiv.org/pdf/2408.10808) <br>
+
+*ESPnet-SPK: full pipeline speaker embedding toolkit with reproducible recipes, self-supervised front-ends, and off-the-shelf models*<br>
+Jee-weon Jung, Wangyou Zhang, Jiatong Shi, Zakaria Aldeneh, Takuya Higuchi, Alex Gichamba, Barry-John Theobald, Ahmed Hussen Abdelaziz, Shinji Watanabe<br>
+Accepted at Interspeech 2024<br>
+Link: [arXiv](https://arxiv.org/pdf/2401.17230)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Fall 2024: Graduate Teaching Assitant
+  * Carnegie Mellon University<br>
+  * [Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F24/index.html)<br>
+  * Instructor: Professor Bhiksha Raj
+
   
-Service and leadership
+Professional Memberships
 ======
-* Currently signed in to 43 different slack teams
+* IEEE (graduate) student member, 2020 - Present
+* International Speech Communication Association (ISCA) Student Member, 2020 - Present
