@@ -50,4 +50,4 @@ Teaching
 Professional Memberships
 ======
 * IEEE (graduate) student member, 2020 - Present
-* International Speech Communication Association (ISCA) Student Member, 2020 - Present
+* International Speech Communication Association (ISCA) Student Member, 2024 - Present
