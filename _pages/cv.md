@@ -30,12 +30,12 @@ Skills
 Publications
 ======
 *ColBERT Retrieval and Ensemble Response Scoring for Language Model Question Answering*<br>
-Alex Gichamba, Tewodros Kederalah Idris, Brian Ebiyau, Eric Nyberg, Teruko Mitamura<br>
+**Alex Gichamba**, Tewodros Kederalah Idris, Brian Ebiyau, Eric Nyberg, Teruko Mitamura<br>
 (Preprint)<br>
 Link: [arXiv](https://arxiv.org/pdf/2408.10808) <br>
 
 *ESPnet-SPK: full pipeline speaker embedding toolkit with reproducible recipes, self-supervised front-ends, and off-the-shelf models*<br>
-Jee-weon Jung, Wangyou Zhang, Jiatong Shi, Zakaria Aldeneh, Takuya Higuchi, Alex Gichamba, Barry-John Theobald, Ahmed Hussen Abdelaziz, Shinji Watanabe<br>
+Jee-weon Jung, Wangyou Zhang, Jiatong Shi, Zakaria Aldeneh, Takuya Higuchi, **Alex Gichamba**, Barry-John Theobald, Ahmed Hussen Abdelaziz, Shinji Watanabe<br>
 Accepted at Interspeech 2024<br>
 Link: [arXiv](https://arxiv.org/pdf/2401.17230)
   
