@@ -21,11 +21,11 @@ repository               : "Alexgichamba/alexgichamba.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "AlexGichamba.jpg"
   name             : "Alex Gichamba"
   pronouns         : "he/him" # example: "she/her"  
   bio              :
-  location         : "Kigali/Nairobi"
+  location         :
   employer         : "Carnegie Mellon University"
   uri              : # URL
   email            : "alexgichamba@ieee.org" 
