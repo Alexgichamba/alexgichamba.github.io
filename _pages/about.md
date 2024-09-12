@@ -13,5 +13,4 @@ I am a Master's student in Electrical and Computer Engineering at CMU. I am advi
 
 Prior to joining CMU, I was pursuing my BSc. in Electrical and Electronics Engineering from the University of Nairobi. I worked on low resource devices for LPWANs advised by Dr. Cosmas Kiruki.
 
-🚀 I will be applying to PhD programs this year hoping to join in Fall 2025!
 
